@@ -81,13 +81,3 @@ Trabalho diariamente com **arquiteturas baseadas em microsserviços**, lidando c
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=utidazx&theme=dark&background=0d1117&border=161b22&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff" alt="Sequência no GitHub" />
 
 </div>
-
----
-
-### 📈 Gráfico de Atividade
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utidazx&theme=github-compact&bg_color=0d1117&hide_border=true&color=58a6ff&line=58a6ff" width="100%" alt="Gráfico de Atividade" />
-
-</div>
