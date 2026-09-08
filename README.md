@@ -1,39 +1,45 @@
+<!-- Botões de Troca de Idioma -->
+<div align="right">
+  <a href="README.md"><b>Português (BR)</b></a> | 
+  <a href="README.en.md"><b>English</b></a>
+</div>
+
 <div align="center">
 
   <!-- Banner do Topo -->
-  <img src="URL_DO_SEU_BANNER.gif" width="100%" alt="Header Banner" />
+  <img src="URL_DO_SEU_BANNER.gif" width="100%" alt="Banner do Cabeçalho" />
 
   <br />
 
-  # Hi 👋, Imma João Utida
+  # Olá 👋, eu sou o João Utida
 
-  ### Full Stack / Backend Developer
+  ### Desenvolvedor Full Stack / Backend
 
-  *Building reliable systems with clean architecture and scalable solutions.*
+  *Construindo sistemas confiáveis com arquitetura limpa e soluções escaláveis.*
 
 </div>
 
 ---
 
-### 🚀 About Me
+### 🚀 Sobre Mim
 
 <p align="right">
-  <img src="URL_DA_SUA_IMAGEM_PIXEL.gif" width="300" align="right" alt="Astronaut Pixel Art" />
+  <img src="URL_DA_SUA_IMAGEM_PIXEL.gif" width="300" align="right" alt="Astronauta Pixel Art" />
 </p>
 
-João, Here — a developer focused on building scalable APIs and software architecture.
+Olá, sou o João — desenvolvedor focado em criar APIs escaláveis e arquitetura de software.
 
-I enjoy building production-ready systems and continuously improving my understanding of real-world backend architectures.
+Gosto de construir sistemas prontos para produção e aprimorar continuamente meu conhecimento sobre arquiteturas backend no mundo real.
 
-Currently learning and working with **Node.js, TypeScript, PostgreSQL, and Docker**.
+Atualmente aprendendo e trabalhando com **Node.js, TypeScript, PostgreSQL e Docker**.
 
-My goal is simple: write clean code, build reliable software, and grow into a software engineer who creates systems that last.
+Meu objetivo é simples: escrever código limpo, construir softwares confiáveis e me tornar um engenheiro de software que cria sistemas duradouros.
 
 <br clear="all" />
 
 ---
 
-### 🤝 Connect
+### 🤝 Conecte-se Comigo
 
 <div align="center">
   <a href="https://github.com/utidazx" target="_blank">
@@ -49,11 +55,10 @@ My goal is simple: write clean code, build reliable software, and grow into a so
 
 ---
 
-### 💻 Tech Stack
+### 💻 Tecnologias
 
 <div align="center">
 
-  <!-- Linguagens e Ferramentas (Ícones Estilo SkillIcons) -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,mysql,docker,git,github,vscode,html,css,c,aws,nodejs,ts,react,redis,gcp,linux,bash&perline=10" />
   </a>
@@ -62,22 +67,20 @@ My goal is simple: write clean code, build reliable software, and grow into a so
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Estatísticas do GitHub
 
 <div align="center">
 
-  <!-- Card de Métricas e Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utidazx&theme=dark&background=0d1117&border=161b22&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utidazx&theme=dark&background=0d1117&border=161b22&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff" alt="Sequência no GitHub" />
 
 </div>
 
 ---
 
-### 📈 Activity Graph
+### 📈 Gráfico de Atividade
 
 <div align="center">
 
-  <!-- Gráfico de Atividade -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utidazx&theme=github-compact&bg_color=0d1117&hide_border=true&color=58a6ff&line=58a6ff" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utidazx&theme=github-compact&bg_color=0d1117&hide_border=true&color=58a6ff&line=58a6ff" width="100%" alt="Gráfico de Atividade" />
 
 </div>
