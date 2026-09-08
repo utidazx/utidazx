@@ -24,7 +24,7 @@
 ### 🚀 Sobre Mim
 
 <p align="right">
-  <img src="URL_DA_SUA_IMAGEM_PIXEL.gif" width="300" align="right" alt="Astronauta Pixel Art" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm12OWU5eWhkajlydXNsZTN2YzRwOWhodnFtc21iN3d3Z2o4MnZ0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ya63hjCGVaHjmXzWy0/giphy.gif" width="300" align="right" alt="Astronauta Pixel Art" />
 </p>
 
 Atuo como **Desenvolvedor Fullstack**, cobrindo desde a modelagem de dados complexos até a sustentação de plataformas em produção, com foco constante em soluções escaláveis.
