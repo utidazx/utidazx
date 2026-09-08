@@ -7,7 +7,7 @@
 <div align="center">
 
   <!-- Banner do Topo -->
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTIxc3d2Nm9kOXBuemRieWxrc2p2MHV4OXkxbDc5bnpheTVxbHZvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYuxp3Rjlrka8mY/giphy.gif" width="100%" alt="Banner do Cabeçalho" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3doOWV2cXp3bDh6a29lN3dsZ3R4aWV2eng3cTk0bXNveXc1dnhqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKIvSaqvGYgSEPS/giphy.gif" width="100%" alt="Banner do Cabeçalho" />
 
   <br />
 
