@@ -7,7 +7,7 @@
 <div align="center">
 
   <!-- Banner do Topo -->
-  <img src="URL_DO_SEU_BANNER.gif" width="100%" alt="Banner do Cabeçalho" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTIxc3d2Nm9kOXBuemRieWxrc2p2MHV4OXkxbDc5bnpheTVxbHZvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYuxp3Rjlrka8mY/giphy.gif" width="100%" alt="Banner do Cabeçalho" />
 
   <br />
 
@@ -31,11 +31,10 @@ Atuo como **Desenvolvedor Fullstack**, cobrindo desde a modelagem de dados compl
 
 Trabalho diariamente com **arquiteturas baseadas em microsserviços**, lidando com desafios de alto volume de dados, integração de APIs e automação de processos de negócio.
 
-* ⚙️ **Backend:** Construção de APIs REST robustas utilizando Node.js, Express e TypeScript.
-* 🖥️ **Frontend:** Interfaces reativas e modernas com Vue.js, JavaScript (ES6+), Vuetify e HTML5/CSS3.
-* 🌐 **Bancos de Dados:** Especialista em modelagem e consultas em bancos orientados a grafos com **Neo4j**.
-* 🐳 **DevOps & Infra:** Containerização de aplicações com Docker, gestão via Portainer e controle de versão com Git/GitHub.
-
+* ⚙️ **Backend:** Node.js, Express, REST APIs, TypeScript
+* 🖥️ **Frontend:** Vue.js, JavaScript (ES6+), Vuetify, HTML5/CSS3
+* 🌐 **Bancos de Dados:** modelagem e consultas em bancos orientados a grafos com **Neo4j**.
+* 🐳 **DevOps & Infra:**  DevOps & Infra: Docker, Portainer, Git/GitHub
 <br clear="all" />
 
 ---
@@ -46,10 +45,10 @@ Trabalho diariamente com **arquiteturas baseadas em microsserviços**, lidando c
   <a href="https://github.com/utidazx" target="_blank">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/utida/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:seu-email@gmail.com" target="_blank">
+  <a href="mailto:contatoutidaweb@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
