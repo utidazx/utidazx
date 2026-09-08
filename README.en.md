@@ -1,4 +1,3 @@
-<!-- Language Switcher -->
 <div align="right">
   <a href="README.md"><b>Português (BR)</b></a> | 
   <a href="README.en.md"><b>English</b></a>
@@ -6,16 +5,15 @@
 
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="URL_DO_SEU_BANNER.gif" width="100%" alt="Header Banner" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTIxc3d2Nm9kOXBuemRieWxrc2p2MHV4OXkxbDc5bnpheTVxbHZvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYuxp3Rjlrka8mY/giphy.gif" width="100%" alt="Header Banner" />
 
   <br />
 
-  # Hi 👋, Imma João Utida
+  # Hi 👋, I'm João Utida
 
-  ### Full Stack / Backend Developer
+  ### Fullstack Developer | Node.js • Vue.js • Neo4j
 
-  *Building reliable systems with clean architecture and scalable solutions.*
+  *Modeling complex data and building end-to-end scalable architectures.*
 
 </div>
 
@@ -24,44 +22,51 @@
 ### 🚀 About Me
 
 <p align="right">
-  <img src="URL_DA_SUA_IMAGEM_PIXEL.gif" width="300" align="right" alt="Astronaut Pixel Art" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm12OWU5eWhkajlydXNsZTN2YzRwOWhodnFtc21iN3d3Z2o4MnZ0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ya63hjCGVaHjmXzWy0/giphy.gif" width="300" align="right" alt="Astronaut Pixel Art" />
 </p>
 
-João, Here — a developer focused on building scalable APIs and software architecture.
+I work as a **Fullstack Developer**, covering everything from complex data modeling to maintaining production platforms, with a constant focus on scalable solutions.
 
-I enjoy building production-ready systems and continuously improving my understanding of real-world backend architectures.
+I work daily with **microservices-based architectures**, handling high-volume data challenges, API integrations, and business process automation.
 
-Currently learning and working with **Node.js, TypeScript, PostgreSQL, and Docker**.
-
-My goal is simple: write clean code, build reliable software, and grow into a software engineer who creates systems that last.
+* ⚙️ **Backend:** Node.js, Express, REST APIs, TypeScript
+* 🖥️ **Frontend:** Vue.js, JavaScript (ES6+), Vuetify, HTML5/CSS3
+* 🌐 **Databases:** Modeling and querying graph-oriented databases with **Neo4j**.
+* 🐳 **DevOps & Infra:** Docker, Portainer, Git/GitHub
 
 <br clear="all" />
 
 ---
 
-### 🤝 Connect
+### 🤝 Connect With Me
 
 <div align="center">
   <a href="https://github.com/utidazx" target="_blank">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/utida/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:seu-email@gmail.com" target="_blank">
+  <a href="mailto:contatoutidaweb@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
 
 ---
 
-### 💻 Tech Stack
+### 💻 Tech Stack & Tools
 
 <div align="center">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,mysql,docker,git,github,vscode,html,css,c,aws,nodejs,ts,react,redis,gcp,linux,bash&perline=10" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,ts,js,vue,vuetify,html,css,docker,git,github,vscode,linux,bash&perline=10" />
   </a>
+
+  <br /><br />
+
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=fastapi&logoColor=white" />
 
 </div>
 
@@ -72,15 +77,5 @@ My goal is simple: write clean code, build reliable software, and grow into a so
 <div align="center">
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=utidazx&theme=dark&background=0d1117&border=161b22&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff" alt="GitHub Streak" />
-
-</div>
-
----
-
-### 📈 Activity Graph
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utidazx&theme=github-compact&bg_color=0d1117&hide_border=true&color=58a6ff&line=58a6ff" width="100%" alt="Activity Graph" />
 
 </div>
