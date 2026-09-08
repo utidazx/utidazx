@@ -1,4 +1,4 @@
-<!-- Botões de Troca de Idioma -->
+<!-- Alternador de Idioma -->
 <div align="right">
   <a href="README.md"><b>Português (BR)</b></a> | 
   <a href="README.en.md"><b>English</b></a>
@@ -13,9 +13,9 @@
 
   # Olá 👋, eu sou o João Utida
 
-  ### Desenvolvedor Full Stack / Backend
+  ### Desenvolvedor Fullstack | Node.js • Vue.js • Neo4j
 
-  *Construindo sistemas confiáveis com arquitetura limpa e soluções escaláveis.*
+  *Modelando dados complexos e construindo arquiteturas escaláveis de ponta a ponta.*
 
 </div>
 
@@ -27,13 +27,14 @@
   <img src="URL_DA_SUA_IMAGEM_PIXEL.gif" width="300" align="right" alt="Astronauta Pixel Art" />
 </p>
 
-Olá, sou o João — desenvolvedor focado em criar APIs escaláveis e arquitetura de software.
+Atuo como **Desenvolvedor Fullstack**, cobrindo desde a modelagem de dados complexos até a sustentação de plataformas em produção, com foco constante em soluções escaláveis.
 
-Gosto de construir sistemas prontos para produção e aprimorar continuamente meu conhecimento sobre arquiteturas backend no mundo real.
+Trabalho diariamente com **arquiteturas baseadas em microsserviços**, lidando com desafios de alto volume de dados, integração de APIs e automação de processos de negócio.
 
-Atualmente aprendendo e trabalhando com **Node.js, TypeScript, PostgreSQL e Docker**.
-
-Meu objetivo é simples: escrever código limpo, construir softwares confiáveis e me tornar um engenheiro de software que cria sistemas duradouros.
+* ⚙️ **Backend:** Construção de APIs REST robustas utilizando Node.js, Express e TypeScript.
+* 🖥️ **Frontend:** Interfaces reativas e modernas com Vue.js, JavaScript (ES6+), Vuetify e HTML5/CSS3.
+* 🌐 **Bancos de Dados:** Especialista em modelagem e consultas em bancos orientados a grafos com **Neo4j**.
+* 🐳 **DevOps & Infra:** Containerização de aplicações com Docker, gestão via Portainer e controle de versão com Git/GitHub.
 
 <br clear="all" />
 
@@ -55,13 +56,20 @@ Meu objetivo é simples: escrever código limpo, construir softwares confiáveis
 
 ---
 
-### 💻 Tecnologias
+### 💻 Tecnologias & Ferramentas
 
 <div align="center">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,mysql,docker,git,github,vscode,html,css,c,aws,nodejs,ts,react,redis,gcp,linux,bash&perline=10" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,ts,js,vue,vuetify,html,css,docker,git,github,vscode,linux,bash&perline=10" />
   </a>
+
+  <br /><br />
+
+  <!-- Badges adicionais para tecnologias específicas -->
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=fastapi&logoColor=white" />
 
 </div>
 
