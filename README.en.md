@@ -27,6 +27,8 @@
 
 I work as a **Fullstack Developer**, covering everything from complex data modeling to maintaining production platforms, with a constant focus on scalable solutions.
 
+🎓 Currently pursuing a Bachelor's degree in **Information Systems at UENP** (State University of Northern Paraná).
+
 I work daily with **microservices-based architectures**, handling high-volume data challenges, API integrations, and business process automation.
 
 * ⚙️ **Backend:** Node.js, Express, REST APIs, TypeScript
