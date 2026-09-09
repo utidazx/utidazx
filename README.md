@@ -29,6 +29,8 @@
 
 Atuo como **Desenvolvedor Fullstack**, cobrindo desde a modelagem de dados complexos até a sustentação de plataformas em produção, com foco constante em soluções escaláveis.
 
+🎓 Atualmente cursando **Bacharelado em Sistemas de Informação na UENP** (Universidade Estadual do Norte do Paraná).
+
 Trabalho diariamente com **arquiteturas baseadas em microsserviços**, lidando com desafios de alto volume de dados, integração de APIs e automação de processos de negócio.
 
 * ⚙️ **Backend:** Node.js, Express, REST APIs, TypeScript
