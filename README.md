@@ -76,16 +76,6 @@ Trabalho diariamente com **arquiteturas baseadas em microsserviços**, lidando c
 
 ---
 
-### 📜 Principais Certificados
-
-<div align="center">
-
-
-
-</div>
-
----
-
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
