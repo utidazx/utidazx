@@ -76,6 +76,19 @@ Trabalho diariamente com **arquiteturas baseadas em microsserviços**, lidando c
 
 ---
 
+### 📜 Principais Certificados
+
+<div align="center">
+
+| Certificado | Emissor | Imagem / Credencial |
+| :--- | :--- | :---: |
+| **HTML,CSS,JAVASCRIPT** | Fundação Bradesco | [<img src="/home/utida/Imagens/certificados" width="120" alt="Certificado 1" />]|
+| **Nome do Certificado 2** | Instituição / Plataforma | [<img src="URL_DA_IMAGEM_AQUI" width="120" alt="Certificado 2" />]|
+
+</div>
+
+---
+
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
