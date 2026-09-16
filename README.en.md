@@ -25,7 +25,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm12OWU5eWhkajlydXNsZTN2YzRwOWhodnFtc21iN3d3Z2o4MnZ0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ya63hjCGVaHjmXzWy0/giphy.gif" width="300" align="right" alt="Astronaut Pixel Art" />
 </p>
 
-I work as a **Fullstack Developer**, covering everything from complex data modeling to maintaining production platforms, with a constant focus on scalable solutions.
+I work as a **Fullstack Developer at Vexur**, covering everything from complex data modeling to maintaining production platforms, with a constant focus on scalable solutions.
 
 🎓 Currently pursuing a Bachelor's degree in **Information Systems at UENP** (State University of Northern Paraná).
 
