@@ -80,7 +80,7 @@ Trabalho diariamente com **arquiteturas baseadas em microsserviços**, lidando c
 
 <div align="center">
 
-<img src="/home/utida/Imagens/certificados"/>
+
 
 </div>
 
